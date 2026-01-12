@@ -2,7 +2,7 @@
 
 Monorepo for WeVis design system documentation and cross-framework UI components
 
-**[Documentation](https://wevisdemo.github.io/design-systems)** for how to use the package
+**[Documentation](https://wevisdemo.github.io/design-system)** for how to use the package
 
 ## 🍱 Project structure
 
